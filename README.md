@@ -9,5 +9,7 @@
 * ❌ 로고의 비율을 임의로 찌그러뜨리지 마십시오.
 * ❌ 야수의 존엄성을 해치는 귀여운 효과를 넣지 마십시오.
 
+## 🚫 권고사항
+* 커밋 메세지는 '야수의 심장'으로 통일하십시오.
 ---
-© 2026 Wild Heart. All rights reserved.
+© 2026 Beast Heart. All rights reserved.
